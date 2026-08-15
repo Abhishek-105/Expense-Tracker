@@ -7,7 +7,7 @@ A fully responsive, production-ready Full-Stack Expense Management Application d
 
 ---
 
-## 🚀 Key Features (Detailed Breakdown)
+## 🚀 Key Features 
 
 ### 📈 1. Dynamic Financial Dashboard
 - **Real-Time KPI Cards:** Instant visual display of Total Balance, Monthly Income, Monthly Expenses, and Monthly Savings calculations based on user inputs.
